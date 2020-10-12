@@ -34,9 +34,8 @@ a {
 }
 
 .intro span {
-    margin-bottom: 10px;
     font-size: 22px;
-    line-height: 40px;
+    line-height: 35px;
 }
 
 .intro span.big-size {
@@ -45,10 +44,6 @@ a {
 }
 
 .wrap hr {
-    margin-top: 20px;
-}
-
-.main_info {
     margin-top: 20px;
 }
 
